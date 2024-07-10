@@ -12,7 +12,7 @@ public class Static2 {
 		System.out.println(s2.roll); //0
 		System.out.println(s2.name); //null
 		System.out.println(s2.college); //null
-		System.out.println("Hi Git modify");
+		System.out.println("your code should always push to TestBranch");
 		
 	}
 	
