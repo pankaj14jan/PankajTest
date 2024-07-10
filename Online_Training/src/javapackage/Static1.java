@@ -17,6 +17,7 @@ public class Static1 {
 
 	public void method2() {
 		int i = 100; //local variable
+		
 
 	}
 }
